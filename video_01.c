@@ -1,3 +1,4 @@
+/* Alunos: Eduardo Gomes de Oliveira, Carlos Alberto Rocha Lima, José Roberto dos Santos Souza*/
 #include <stdio.h>
 
 int main (){
